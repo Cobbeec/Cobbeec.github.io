@@ -1,16 +1,9 @@
 ---
 layout: post
-title:      "Why Software Engineering "
-date:       2020-08-24 23:17:28 +0000
+title:      "Title Here "
+date:       2020-08-24 19:17:29 -0400
 permalink:  why_software_engineering
 ---
 
 
-I have worked in education for nearly 15 years. I first fell in love with education as an undergraduate.  Though it wasn’t my major, I worked as an undergraduate TA, and I quickly found that even more than the material itself, what I loved was teaching it to others. I loved tutoring my peers, running review sessions, and helping organize the sometimes overwhelming content. From that moment on, I knew I wanted to be a teacher. For the past five years, I have worked as a teacher on the North side of Chicago. I have seen the struggles that my students face on a social emotional level, with regards to their linguistic diversity, and simply the struggle of grasping complicated new material. More and more, my students must not only find their footing in the “real world,” but also in the digital world. 
-
-When we were forced into remote learning without much warning in March, it really highlighted many of the shortcomings in educational tech. While my school has been 1:1 for the past two years, and I have been using Google Suite and other tools in my classroom, it wasn’t until this past March that I started to understand the struggle of facilitating genuine understanding of complex materials through online tools. While tools such as Albert.io were great for reviewing SAT content, the problem explanations were weak and the interface often frustrated students. Today, on my first day back at work, my mentee and I were discussing the hurdles of trying to relationship-build through technology. This will be a driving question for millions of American teachers and students this year. Of course, I don’t have a definitive answer, but I know it will involve improved educational tools. 
-
-There is almost an overwhelming quantity of educational tools on the market, the more challenging problem is finding tools that have real utility. It’s hard to find programs that genuinely support student writing, or tools that account for accessibility. I recently got my endorsement in ESL, and I have a laundry list of ideas for how to make the technology I use more accessible for non-native English speakers. The actual content provided on these tools is often weak, and too often, explanations are cursory or lacking. Further, developers seem to be driven by gamification over educational quality. Even doing my Google educator training this past month, I found myself frustrated with the organization of the content and the phrasing of the questions. My fellow teachers and I complained that the multiple choice questions seemed to be written by someone completely unfamiliar with how to assess learning. 
-
-As I continue a year of trying to educate and motivate my students remotely, I want to be able to build the tools to solve their problems. Even if we move past the pandemic, it is clear we live in a world where such future disruptions are possible, be they from a climate-based crisis, or something still unknown. I know I’ve found my calling in education, and I don’t want to leave the field. Instead I want to help build tools to reach an even wider audience. 
-
+This is where a future blog will go. It will not let me save an empty draft. So "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
